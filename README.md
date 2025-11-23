@@ -3,7 +3,7 @@
 📊 Data Reporting Analyst
 
 <h1 align="center">👋 Hi, I'm Jaihind Maurya</h1>
-<h3 align="center">Skills Power BI | SQL | Python | Data Analytics | MIS & Reporting | Advanced Excel</h3>
+<h3 align="center">Skills - Power BI | SQL | Python | Data Analytics | MIS & Reporting | Advanced Excel</h3>
 
 🛒 Domain Experience: Ecommerce, NBFC, Banking, Investment Banking
 
