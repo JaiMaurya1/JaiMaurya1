@@ -1,8 +1,9 @@
+🔥 About Me
+
+📊 Data Reporting Analyst
+
 <h1 align="center">👋 Hi, I'm Jaihind Maurya</h1>
 <h3 align="center">Power BI | SQL | Python | Data Analytics | MIS & Reporting | Advanced Excel</h3>
-
-🔥 About Me
-📊 Data Reporting Analyst
 
 🛒 Domain Experience: Ecommerce, NBFC, Banking, Investment Banking
 
