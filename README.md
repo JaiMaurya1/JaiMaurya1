@@ -44,4 +44,8 @@ Advanced Excel
 
 🧠 Improving SQL & Python for data transformation
 
+<h1 align="center">👋 Hi, I'm Jaihind Maurya</h1>
+<h3 align="center">Power BI | SQL | Python | Data Analytics | MIS & Reporting | Advanced Excel</h3>
+
+
 ⚙️ Enhancing automation skills for reporting workflows
