@@ -1,6 +1,6 @@
 👋 Hey there! I'm Jaihind Maurya
 
-Power BI | SQL | Python | Data Analytics | MIS & Reporting | Advanced Excel
+Skill -- Power BI | SQL | Python | Data Analytics | MIS & Reporting | Advanced Excel
 
 🔥 About Me
 📊 Data Reporting Analyst
