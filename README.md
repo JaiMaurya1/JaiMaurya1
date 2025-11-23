@@ -3,7 +3,7 @@
 📊 Data Reporting Analyst
 
 <h1 align="center">👋 Hi, I'm Jaihind Maurya</h1>
-<h3 align="center">Power BI | SQL | Python | Data Analytics | MIS & Reporting | Advanced Excel</h3>
+<h3 align="center">Skills Power BI | SQL | Python | Data Analytics | MIS & Reporting | Advanced Excel</h3>
 
 🛒 Domain Experience: Ecommerce, NBFC, Banking, Investment Banking
 
@@ -13,9 +13,11 @@
 
 🤝 Open to collaboration on analytics, reporting, and dashboard development
 
-🎯 Future Vision
+
+🎯 Future Vision -
 
 🚀 Aspiring Data Scientist — aiming to build impactful AI/ML solutions
+
 
 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaiMaurya1&show_icons=true&theme=tokyonight)
@@ -45,8 +47,5 @@ Advanced Excel
 📊 Building advanced dashboards using Power BI
 
 🧠 Improving SQL & Python for data transformation
-
-
-
 
 ⚙️ Enhancing automation skills for reporting workflows
