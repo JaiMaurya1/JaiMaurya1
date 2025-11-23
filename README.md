@@ -1,16 +1,48 @@
-## Hi there 👋
+👋 Hey there! I'm Jaihind Maurya
 
-<!--
-**JaiMaurya1/JaiMaurya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Power BI | SQL | Python | Data Analytics | MIS & Reporting | Advanced Excel
 
-Here are some ideas to get you started:
+🔥 About Me
+📊 Data Reporting Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛒 Domain Experience: Ecommerce, NBFC, Banking, Investment Banking
+
+🧠 Skilled in creating dashboards, generating insights, and automating reporting workflows
+
+🛠️ Passionate about BI tools, data visualization, and data-driven decision-making
+
+🤝 Open to collaboration on analytics, reporting, and dashboard development
+
+🎯 Future Vision
+
+🚀 Aspiring Data Scientist — aiming to build impactful AI/ML solutions
+
+📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaiMaurya1&show_icons=true&theme=tokyonight)
+
+🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=JaiMaurya1&theme=tokyonight)
+
+📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JaiMaurya1&theme=github-dark)
+
+🛠️ Skills
+Power BI
+
+SQL
+
+Python
+
+Data Analytics
+
+MIS & Reporting
+
+Advanced Excel
+
+🚀 What I’m Currently Working On
+
+📊 Building advanced dashboards using Power BI
+
+🧠 Improving SQL & Python for data transformation
+
+⚙️ Enhancing automation skills for reporting workflows
