@@ -1,7 +1,5 @@
 👋 Hey there! I'm Jaihind Maurya
 
-Skill -- Power BI | SQL | Python | Data Analytics | MIS & Reporting | Advanced Excel
-
 🔥 About Me
 📊 Data Reporting Analyst
 
@@ -27,6 +25,7 @@ Skill -- Power BI | SQL | Python | Data Analytics | MIS & Reporting | Advanced E
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JaiMaurya1&theme=github-dark)
 
 🛠️ Skills
+
 Power BI
 
 SQL
