@@ -7,14 +7,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Power+BI+%7C+SQL+%7C+Python+Expert;Data+Analytics+%26+Visualization;Building+Data-Driven+Solutions;Automating+Reporting+Workflows)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JaiMaurya1&color=blueviolet&style=for-the-badge)](https://github.com/JaiMaurya1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaihind-maurya-5b5863165/)
 
 </div>
 
 ---
 
 ## 🚀 About Me
-```python
+python
 class DataAnalyst:
     def __init__(self):
         self.name = "Jaihind Maurya"
@@ -37,7 +37,7 @@ class DataAnalyst:
             "🐍 Mastering Python for data analytics",
             "⚙️ Automating reporting workflows",
         ]
-```
+
 
 ---
 
@@ -64,9 +64,9 @@ class DataAnalyst:
 </table>
 
 ### 🎯 Domain Experience
-- **🛒 Ecommerce** - Customer analytics, sales performance tracking
-- **🏦 Banking & NBFC** - Risk analysis, financial reporting
-- **📈 Investment Banking** - Market data analysis, portfolio insights
+- *🛒 Ecommerce* - Customer analytics, sales performance tracking
+- *🏦 Banking & NBFC* - Risk analysis, financial reporting
+- *📈 Investment Banking* - Market data analysis, portfolio insights
 
 ---
 
@@ -141,7 +141,7 @@ class DataAnalyst:
 ---
 
 ## 💡 Key Highlights
-```yaml
+yaml
 Experience:
   - Domain: "Ecommerce, Banking, NBFC, Investment Banking"
   - Specialty: "Data Reporting & Analytics"
@@ -158,7 +158,7 @@ Learning:
   - Statistical Modeling
   - Cloud Platforms (AWS, Azure)
   - Big Data Technologies
-```
+
 
 ---
 
@@ -167,10 +167,10 @@ Learning:
 <div align="center">
 
 I'm always excited to collaborate on:
-- 📊 **Analytics Projects** - Data analysis and visualization
-- 🤖 **AI/ML Initiatives** - Building intelligent solutions
-- 📈 **Dashboard Development** - Interactive reporting tools
-- 💡 **Open Source** - Contributing to data science projects
+- 📊 *Analytics Projects* - Data analysis and visualization
+- 🤖 *AI/ML Initiatives* - Building intelligent solutions
+- 📈 *Dashboard Development* - Interactive reporting tools
+- 💡 *Open Source* - Contributing to data science projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/JaiMaurya1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaihind-maurya-5b5863165/)
@@ -200,7 +200,7 @@ I'm always excited to collaborate on:
 
 ### ⭐ Show some love by starring my repositories!
 
-**"Data is the new oil, but analytics is the combustion engine."** 🚀
+*"Data is the new oil, but analytics is the combustion engine."* 🚀
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
