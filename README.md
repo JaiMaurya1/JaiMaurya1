@@ -34,9 +34,8 @@ class DataAnalyst:
     def current_focus(self):
         return [
             "📊 Building advanced Power BI dashboards",
-            "🐍 Mastering Python for data science",
+            "🐍 Mastering Python for data analytics",
             "⚙️ Automating reporting workflows",
-            "🤖 Exploring AI/ML solutions"
         ]
 ```
 
